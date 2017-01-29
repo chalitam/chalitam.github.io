@@ -1,0 +1,62 @@
+.profile-pic {
+	max-width: 50%;
+}
+/**/
+.work-experience {
+	font-weight: bold;
+}
+.skill {
+	font-weight: bold;
+}
+.card {
+	border: solid #EAEAEA 1px;
+	border-radius: 4px;
+	padding: 5px;
+	margin-top: 10px;
+	box-shadow: 1px 1px 3px #D8D8D8 ;
+}
+.navbar {
+	background-color: #FAFAFA;
+	margin-bottom: 0%;
+}
+.jumbotron {
+  background-image: url("../img/n4.jpg");
+  background-size: 100%;
+  color: white;
+  min-height: 93%;
+  font-family: avenir;
+}
+
+.display-3 {
+	margin-top: 10%;
+}
+
+.card-block {
+	margin-top: 4%;
+}
+.card-footer {
+	background-color: #EAEAEA;
+	margin-top: 5%;
+	background-size: 100%;
+	font-size: 300%;
+	color: gray;
+}
+
+.card-title {
+	padding: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -44,16 +44,24 @@
 
 .card-title {
 	padding: 1px;
+	color: #A81111;
 }
 
+.colbar {
+	background-color: #FFC300;
+}
 
+.probbar {
+	background-color: #D84040;
+}
 
+.progress-bar {
+	border-radius: 5px;
+}
 
-
-
-
-
-
+.font {
+	font-family: avenir;
+}
 
 
 
